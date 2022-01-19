@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Apple",
+    "description": "Eat one apple everyday to keep the doctor away",
+    "price": 12,
+    "icon": "/static/images/apple.png"
+  },
+  {
+    "id": 2,
+    "title": "Grapes",
+    "description": "Apple is great, but grapes aare even better",
+    "price": 18,
+    "icon": "/static/images/grapes.png"
+  },
+  {
+    "id": 3,
+    "title": "Mango",
+    "description": "The king of all fruits",
+    "price": 10,
+    "icon": "/static/images/mango.png"
+  },
+  {
+    "id": 4,
+    "title": "Pineapple",
+    "description": "No pine, no apple, just a whole lot of pineapple",
+    "price": 10,
+    "icon": "/static/images/pineapple.png"
+  },
+  {
+    "id": 5,
+    "title": "Orange",
+    "description": "Orange fruit is always good",
+    "price": 10,
+    "icon": "/static/images/orange.png"
+  }
+]
